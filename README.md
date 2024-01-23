@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Emrul Kayes👋
 
-<!--
-**mdemrulkayes/mdemrulkayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced Full-Stack Software Developer with over 7 years of hands-on expertise, currently contributing to [Cefalo](https://www.cefalo.com/en/). Proficient in utilizing ASP.NET Core, Razor, Blazor, Angular, and React to build robust applications. Moreover, Well-versed in various architectural design patterns, with a focus on Modular Monolith, Domain Driven Design, and Event Driven Design for creating innovative and scalable solutions. 
+<div align="center">
+  <a href="https://linkedin.com/emrulkayes2103"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MD EMRUL KAYES" /></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Status
+<a href="https://github.com/mdemrulkayes">
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=mdemrulkayes&show_icons=true&theme=shades-of-purple&count_private=true"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrulkayes&theme=shades-of-purple&layout=compact"/>
+</a>
