@@ -2,7 +2,7 @@
 
 I'm an experienced Full-Stack Software Developer with over 7 years of hands-on expertise, currently contributing to [Cefalo](https://www.cefalo.com/en/). Proficient in utilizing ASP.NET Core, Razor, Blazor, Angular, and React to build robust applications. Moreover, Well-versed in various architectural design patterns, with a focus on Modular Monolith, Domain Driven Design, and Event Driven Design for creating innovative and scalable solutions. 
 <div align="center">
-  <a href="https://linkedin.com/emrulkayes2103"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MD EMRUL KAYES" /></a>
+  <a href="https://linkedin.com/in/emrulkayes2103"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MD EMRUL KAYES" /></a>
 </div>
 
 ### Github Status
