@@ -7,6 +7,6 @@ I'm an experienced Full-Stack Software Developer with over 8 years of hands-on e
 
 ### Github Status
 <a href="https://github.com/mdemrulkayes">
-   <!-- <img src="https://github-readme-stats.vercel.app/api?username=mdemrulkayes&show_icons=true&theme=shades-of-purple&count_private=true"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrulkayes&theme=shades-of-purple&layout=compact"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=mdemrulkayes&show_icons=true&theme=shades-of-purple&count_private=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrulkayes&theme=shades-of-purple&layout=compact"/>
 </a>
