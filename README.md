@@ -12,8 +12,11 @@ I develop, design, and maintain scalable web applications that prioritize user e
 - **Backend:** ASP.NET Core
 - **Architectural Patterns:** Modular Monolith, DDD, EDA
 
-<center>[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Emrul%20Kayes-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emrulkayes2103)</center>
-### Github Status
+<div align="center">
+  <a href="https://linkedin.com/in/emrulkayes2103"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MD EMRUL KAYES" /></a>
+</div>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+## GitHub Statistics
+
+![GitHub stats showing commit history and contribution activity](./profile/stats.svg)
+![Top programming languages used in repositories displayed as a bar chart](./profile/top-langs.svg)
