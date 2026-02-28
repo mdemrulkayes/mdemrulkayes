@@ -5,8 +5,8 @@ I'm an experienced Full-Stack Software Developer with over 9 years of hands-on e
   <a href="https://linkedin.com/in/emrulkayes2103"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MD EMRUL KAYES" /></a>
 </div>
 
-### Github Status
+<!-- ### Github Status
 <a href="https://github.com/mdemrulkayes">
   <!-- <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=mdemrulkayes&show_icons=true&theme=shades-of-purple&count_private=true"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrulkayes&theme=shades-of-purple&layout=compact"/>
-</a>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemrulkayes&theme=shades-of-purple&layout=compact"/>
+</a> -->
