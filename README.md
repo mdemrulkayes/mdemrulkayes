@@ -1,6 +1,6 @@
 # Hello, I'm Emrul Kayes! 👋
 
-With over **9 years of full-stack experience** at Cefalo, I specialize in creating robust applications utilizing modern technologies. My expertise lies in **ASP.NET Core, Razor, Blazor, Angular,** and **React**, and I’m passionate about applying architectural patterns like **Modular Monolith, Domain-Driven Design (DDD),** and **Event-Driven Architecture (EDA)**.
+With over **10 years of full-stack experience** at Cefalo, I specialize in creating robust applications utilizing modern technologies. My expertise lies in **ASP.NET Core, Razor, Blazor, Angular,** and **React**, and I’m passionate about applying architectural patterns like **Modular Monolith, Domain-Driven Design (DDD),** and **Event-Driven Architecture (EDA)**.
 
 ## What I Do
 
@@ -18,5 +18,9 @@ I develop, design, and maintain scalable web applications that prioritize user e
 
 ## GitHub Statistics
 
-![GitHub stats showing commit history and contribution activity](./profile/stats.svg)
-![Top programming languages used in repositories displayed as a bar chart](./profile/top-langs.svg)
+<a href="./profile/top-langs.svg">
+  <img height=200 align="center" src="./profile/top-langs.svg" />
+</a>
+<a href="./profile/stats.svg">
+  <img height=200 align="center" src="./profile/stats.svg" />
+</a>
